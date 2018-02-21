@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.gametracker.com	TRUE	/	FALSE	1999999999	__cfduid	d6ee77a2c24c9ea21e4d6cafb5237b0181514061873
+
